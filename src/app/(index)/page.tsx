@@ -327,65 +327,15 @@ export default function Home() {
             </div>
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10 mt-20">
-                <div className="col-start-1 col-span-1">
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-16 row-start-2">
-                        SKILLS
-                    </h4>
-                </div>
-
-                <div className="col-start-3 col-span-2 ">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
-                        DESIGN
-                    </h4>
-                </div>
-                <div className="col-start-5 col-span-2 ml-16 row-start-1">
-                    <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            GRAPHIC DESIGN
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            USER RESEARCH
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            STORYTELLING
-                        </h4>
-                    </div>
-
-                </div>
-
-                <div className="col-start-6 col-span-2 ml-16 row-start-1">
-                    <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            CONTENT STRATEGY </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            EXPERIENCE DESIGN </h4>
-
-                    </div>
-
-                </div>
-
                 <div className="col-start-3 col-span-2 ">
                     <h4 className="font-testFounders font-medium text-4xl mt-16 ">
                         TOOLS
                     </h4>
                 </div>
 
-                <div className="col-start-5 col-span-2 ml-16 row-start-1">
-                    <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            GRAPHIC DESIGN
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            USER RESEARCH
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
-                            STORYTELLING
-                        </h4>
-                    </div>
 
-                </div>
 
-                <div className="col-start-6 col-span-2 ml-16 row-start-2">
+                <div className="col-start-6 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
                         <h4 className="font-testFounders font-medium text-4xl text-customGray">
                             FIGMA </h4>
@@ -394,7 +344,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className="col-start-5 col-span-2 ml-16 row-start-2">
+                <div className="col-start-5 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
                         <h4 className="font-testFounders font-medium text-4xl text-customGray">
                             HTML/CSS </h4>
