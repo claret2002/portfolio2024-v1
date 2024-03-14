@@ -77,19 +77,19 @@ export default function Home() {
                 </a>
 
                 <div className="col-start-1 col-span-4 mt-4">
-                    <h2 className="font-foundersGrotesk font-medium text-4xl">
+                    <h2 className="font-foundersGrotesk font-medium text-3xl">
                         DUTCH DESIGN AWARD
                     </h2>
                 </div>
                 <div className="col-start-1 col-span-2 mt-1">
-                    <h2 className="font-testFounders font-medium text-4xl text-customGray">
+                    <h2 className="font-testFounders font-medium text-3xl text-customGray">
                         ART DIRECTION, INTERACTION DESIGN, RESEARCH
                     </h2>
                 </div>
 
                 <div className="col-start-4 col-span-2 mt-1 ">
 
-                    <h2 className="ml-2 font-testFounders font-medium text-4xl text-customGray ">
+                    <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
                         SURFACING THE VERY EXPLICIT NATURE OF THE DUTCH CULTURE.
                     </h2>
 
@@ -106,19 +106,19 @@ export default function Home() {
                 </a>
 
                 <div className="col-start-6 col-span-4 mt-4 row-start-2">
-                    <h2 className="font-foundersGrotesk font-medium text-4xl">
+                    <h2 className="font-foundersGrotesk font-medium text-3xl">
                         88RISING
                     </h2>
                 </div>
                 <div className="col-start-6 col-span-2 mt-1 row-start-3">
-                    <h2 className="font-testFounders font-medium text-4xl text-customGray">
+                    <h2 className="font-testFounders font-medium text-3xl text-customGray">
                         EXPERIENCE DESIGN, INTERACTION DESIGN, CONTENT STRATEGY, RESEARCH
                     </h2>
                 </div>
 
                 <div className="col-start-9 col-span-2 mt-1 row-start-3">
 
-                    <h2 className="ml-2 font-testFounders font-medium text-4xl text-customGray ">
+                    <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
                         A REVAMP OF 88RISING WEBSITE WITH A FOCUS ON ENHANCED ARTISTS DISCOVERABILITY.
                     </h2>
 
@@ -138,19 +138,19 @@ export default function Home() {
                 </a>
 
                 <div className="col-start-1 col-span-4 mt-4">
-                    <h2 className="font-foundersGrotesk font-medium text-4xl">
+                    <h2 className="font-foundersGrotesk font-medium text-3xl">
                         SOULO
                     </h2>
                 </div>
                 <div className="col-start-1 col-span-2 mt-1">
-                    <h2 className="font-testFounders font-medium text-4xl text-customGray">
+                    <h2 className="font-testFounders font-medium text-3xl text-customGray">
                         ART DIRECTION, INTERACTION DESIGN, RESEARCH
                     </h2>
                 </div>
 
                 <div className="col-start-4 col-span-2 mt-1 ">
 
-                    <h2 className="ml-2 font-testFounders font-medium text-4xl text-customGray ">
+                    <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
                         SURFACING THE VERY EXPLICIT NATURE OF THE DUTCH CULTURE.
                     </h2>
 
@@ -167,19 +167,19 @@ export default function Home() {
                 </a>
 
                 <div className="col-start-6 col-span-4 mt-4 row-start-2">
-                    <h2 className="font-foundersGrotesk font-medium text-4xl">
+                    <h2 className="font-foundersGrotesk font-medium text-3xl">
                         POSTERS
                     </h2>
                 </div>
                 <div className="col-start-6 col-span-2 mt-1 row-start-3">
-                    <h2 className="font-testFounders font-medium text-4xl text-customGray">
+                    <h2 className="font-testFounders font-medium text-3xl text-customGray">
                         EXPERIENCE DESIGN, INTERACTION DESIGN, CONTENT STRATEGY, RESEARCH
                     </h2>
                 </div>
 
                 <div className="col-start-9 col-span-2 mt-1 row-start-3">
 
-                    <h2 className="ml-2 font-testFounders font-medium text-4xl text-customGray ">
+                    <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
                         A REVAMP OF 88RISING WEBSITE WITH A FOCUS ON ENHANCED ARTISTS DISCOVERABILITY.
                     </h2>
 
@@ -196,24 +196,24 @@ export default function Home() {
                 </div>
 
                 <div className="col-start-1 col-span-1">
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-16 row-start-2">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-16 row-start-2">
                         EXPERIENCE
                     </h4>
                 </div>
                 <div className="col-start-3 col-span-2 row-start-2">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         CONFERENCE ORGANIZER - TOUCHPOINT SFU
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl mt-2 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-2 text-customGray">
                         01.2023 - 04.2023
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray">
                         01.2024 - 04.2024
                     </h4>
                 </div>
 
                 <div className="col-start-5 col-span-4 row-start-2 ml-16">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
                         COORDINATED A DESIGN CONFERENCE HOSTING 200+ GUESTS AND 8 SPEAKERS, OVERSEEING STUDENT
                         INTERVIEWS WITH 9 COMPANIES WHICH RESULTED IN X PEOPLE GETTING AN INTERNSHIP. COLLABORATED WITH
                         A TEAM OF 3 TO DEVELOP THE VISUAL IDENTITY FOR THE CONFERENCE WEBSITE.
@@ -222,19 +222,19 @@ export default function Home() {
                 </div>
 
                 <div className="col-start-3 col-span-2 row-start-3">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         PRODUCT DESIGNER - 88RISING
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl mt-2 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-2 text-customGray">
                         ACADEMIC PROJECT
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-1">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-1">
                         11.2023 - 12.2023
                     </h4>
                 </div>
 
                 <div className="col-start-5 col-span-4 row-start-3 ml-16">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
                         CONTRIBUTED TO A WEBSITE REDESIGN PROJECT FOR 88RISING AIMED AT ENHANCING THE DISCOVERABILITY OF
                         LESSER KNOWN ARTISTS, ALIGNING WITH THE COMPANY&apos;S MISSION OF BRIDGING EASTERN AND WESTERN
                         CULTURES.
@@ -243,19 +243,19 @@ export default function Home() {
                 </div>
 
                 <div className="col-start-3 col-span-2 row-start-4">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         VISUAL DESIGNER - DUTCH DESIGN AWARDS
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl mt-2 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-2 text-customGray">
                         ACADEMIC PROJECT
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-1">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-1">
                         09.2023 - 10.2023
                     </h4>
                 </div>
 
                 <div className="col-start-5 col-span-4 row-start-4 ml-16">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
                         LED CREATION OF A BOLD VISUAL IDENTITY FOR A FICTIONAL DUTCH DESIGN AWARD SUBMISSION. ADDRESSED
                         CONTROVERSIAL CULTURAL TOPICS LIKE SWARTZ PETE. DEMONSTRATED ABILITY TO USE DESIGN TO PROVOKE
                         CRITICAL DISCOURSE.
@@ -266,21 +266,21 @@ export default function Home() {
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10 mt-20">
                 <div className="col-start-1 col-span-1">
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-16 row-start-2">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-16 row-start-2">
                         EDUCATION
                     </h4>
                 </div>
 
                 <div className="col-start-3 col-span-2 ">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         SIMON FRASER UNIVERSITY
                     </h4>
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-1">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-1">
                         2020 - 2025
                     </h4>
                 </div>
                 <div className="col-start-5 col-span-4 ml-16">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 text-customGray">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
                         BACHELORS OF ARTS IN INTERACTIVE ARTS AND TECHNOLOGY, WITH A CONCENTRATION IN DESIGN
 
                     </h4>
@@ -289,25 +289,25 @@ export default function Home() {
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10 mt-20">
                 <div className="col-start-1 col-span-1">
-                    <h4 className="font-testFounders font-medium text-4xl text-customGray mt-16 row-start-2">
+                    <h4 className="font-testFounders font-medium text-3xl text-customGray mt-16 row-start-2">
                         SKILLS
                     </h4>
                 </div>
 
                 <div className="col-start-3 col-span-2 ">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         DESIGN
                     </h4>
                 </div>
                 <div className="col-start-5 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             GRAPHIC DESIGN
                         </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             USER RESEARCH
                         </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             STORYTELLING
                         </h4>
                     </div>
@@ -316,9 +316,9 @@ export default function Home() {
 
                 <div className="col-start-6 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             CONTENT STRATEGY </h4>
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             EXPERIENCE DESIGN </h4>
 
                     </div>
@@ -328,7 +328,7 @@ export default function Home() {
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10 mt-20">
                 <div className="col-start-3 col-span-2 ">
-                    <h4 className="font-testFounders font-medium text-4xl mt-16 ">
+                    <h4 className="font-testFounders font-medium text-3xl mt-16 ">
                         TOOLS
                     </h4>
                 </div>
@@ -337,7 +337,7 @@ export default function Home() {
 
                 <div className="col-start-6 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             FIGMA </h4>
 
 
@@ -346,7 +346,7 @@ export default function Home() {
 
                 <div className="col-start-5 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
-                        <h4 className="font-testFounders font-medium text-4xl text-customGray">
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             HTML/CSS </h4>
 
 

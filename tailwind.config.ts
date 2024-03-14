@@ -20,8 +20,8 @@ const config: Config = {
 
       fontSize: {
         '5xl': '5.625rem', //h1
-        '4xl': '0.625rem',//h2
-        '3xl': '0.8125rem', //h3
+        '4xl': '0.6875rem',//h2
+        '3xl': '0.625rem', //h3
         '2xl': '1rem', //h4
         'base': '1.125rem',
       },
