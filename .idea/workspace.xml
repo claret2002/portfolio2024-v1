@@ -29,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alexq/OneDrive/Documents/GitHub/claretsportfolio/src/app/(sub)/dutchDesignAwards",
+    "last_opened_file_path": "C:/Users/alexq/OneDrive/Documents/GitHub/claretsportfolio/public/img/dutchDesignAwards",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,11 +42,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexq\OneDrive\Documents\GitHub\claretsportfolio\public\img\dutchDesignAwards" />
       <recent name="C:\Users\alexq\OneDrive\Documents\GitHub\claretsportfolio\src\app\(sub)\dutchDesignAwards" />
       <recent name="$PROJECT_DIR$/src/app/(triggerwarning)" />
       <recent name="$PROJECT_DIR$/src/app/(sub)/triggerwarning" />
       <recent name="$PROJECT_DIR$/src/app/(sub)" />
-      <recent name="$PROJECT_DIR$/src/app/(sub)/projects/warning " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexq\OneDrive\Documents\GitHub\claretsportfolio\public\img\dutchDesignAwards" />
@@ -68,7 +68,7 @@
       <workItem from="1710542670404" duration="2740000" />
       <workItem from="1710548760068" duration="1158000" />
       <workItem from="1710549975242" duration="810000" />
-      <workItem from="1710554358597" duration="4989000" />
+      <workItem from="1710554358597" duration="5483000" />
     </task>
     <servers />
   </component>

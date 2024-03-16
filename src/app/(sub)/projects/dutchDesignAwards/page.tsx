@@ -290,6 +290,32 @@ export default function Home() {
 
             </div>
 
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-20">
+                <div className="col-start-3 col-span-2">
+                    <div className="flex flex-row gap-6">
+                        <Image src="/img/dutchDesignAwards/line1poster.png"
+                               alt="first line of investigation poster"
+                               width={997}
+                               height={1411}
+                        >
+                        </Image>
+                        <Image src="/img/dutchDesignAwards/line2poster.png"
+                               alt="second line of investigation poster"
+                               width={997}
+                               height={1411}
+                        >
+                        </Image>
+                        <Image src="/img/dutchDesignAwards/line3poster.png"
+                               alt="third line of investigation poster"
+                               width={997}
+                               height={1411}
+                        >
+                        </Image>
+                    </div>
+                </div>
+
+            </div>
+
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
                 <div className="bg-white py-40 col-start-1 col-span-full">
 
