@@ -5,22 +5,24 @@ export default function Home() {
         <main className="min-h-screen antialiased">
             {/*<div className="bg-white fixed top-0 left-0 right-0 z-50 py-5">*/}
             <nav className="mx-custom-margin grid grid-cols-10 gap-x-5 bg-white fixed top-0 left-0 right-0 z-50 py-5 ">
-                <div className="col-start-1 col-span-3">
-                    <div className="flex flex-row gap-2">
-                        <svg width="21" height="22" viewBox="0 0 21 22" fill="none"
-                             xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="10.4309" cy="11.2388" r="10.4315" fill="black"/>
-                            <path
-                                d="M11.39 7.16187H9.46814V10.1185H6.58533V12.0895H9.46814V17.0172H11.39V12.0895H14.2728V10.1185H11.39V7.16187Z"
-                                fill="white"/>
-                        </svg>
-                        <h4 className="text-4xl font-foundersGrotesk font-medium text-customGray pt-1">
-                            CLARET EGWIM
-                        </h4>
-                    </div>
+                <div className="col-start-1 col-span-2">
+                    <a href="/">
+                        <div className="flex flex-row gap-2">
+                            <svg width="21" height="22" viewBox="0 0 21 22" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="10.4309" cy="11.2388" r="10.4315" fill="black"/>
+                                <path
+                                    d="M11.39 7.16187H9.46814V10.1185H6.58533V12.0895H9.46814V17.0172H11.39V12.0895H14.2728V10.1185H11.39V7.16187Z"
+                                    fill="white"/>
+                            </svg>
+                            <h4 className="text-4xl font-foundersGrotesk font-medium text-customGray pt-1">
+                                CLARET EGWIM
+                            </h4>
+                        </div>
+                    </a>
                 </div>
 
-                <div className="col-start-4 col-span-3">
+                <div className="col-start-3 col-span-3">
                     <p className="text-customGray font-testFounders font-medium text-4xl">
                         A DESIGNER WHO PURPOSEFULLY INTEGRATES REASON, STRATEGY, EMPATHY AND PROCESS TO CRAFT PRODUCTS
                         THAT NOT ONLY MEETS THE NEEDS OF PEOPLE BUT ALSO PLAYS A LARGER ROLE IN REAL CONTEXT.
@@ -332,7 +334,6 @@ export default function Home() {
                         TOOLS
                     </h4>
                 </div>
-
 
 
                 <div className="col-start-6 col-span-2 ml-16 row-start-1">

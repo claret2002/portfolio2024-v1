@@ -24,6 +24,7 @@ const config: Config = {
         '3xl': '0.625rem', //h3
         '2xl': '1rem', //h4
         'base': '1.125rem',
+        'caseStudyHeader': '1.5rem',
       },
       spacing: {
         'custom-margin': '1.875rem'
@@ -32,6 +33,7 @@ const config: Config = {
       colors: {
         customGray: '#AEAEAE',
         customRed: '#CE1818',
+        redHighlight: '#FF7575',
       },
     },
   },
