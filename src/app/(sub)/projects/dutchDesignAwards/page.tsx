@@ -291,36 +291,271 @@ export default function Home() {
             </div>
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-20">
-                <div className="col-start-3 col-span-2">
+                <div className="col-start-3 col-span-7">
                     <div className="flex flex-row gap-6">
-                        <Image src="/img/dutchDesignAwards/line1poster.png"
-                               alt="first line of investigation poster"
-                               width={997}
-                               height={1411}
-                        >
-                        </Image>
-                        <Image src="/img/dutchDesignAwards/line2poster.png"
-                               alt="second line of investigation poster"
-                               width={997}
-                               height={1411}
-                        >
-                        </Image>
-                        <Image src="/img/dutchDesignAwards/line3poster.png"
-                               alt="third line of investigation poster"
-                               width={997}
-                               height={1411}
-                        >
-                        </Image>
+                        <div>
+                            <Image src="/img/dutchDesignAwards/line1poster.png"
+                                   alt="first line of investigation poster"
+                                   width={997}
+                                   height={1411}
+                            >
+                            </Image>
+                            <h3 className="text-3xl font-testFounders text-customGray mt-5 font-medium">
+                                TYPE MANIPULATION TO CREATE TEXTURE
+                            </h3>
+                        </div>
+                        <div>
+                            <Image src="/img/dutchDesignAwards/line2poster.png"
+                                   alt="second line of investigation poster"
+                                   width={997}
+                                   height={1411}
+                            >
+                            </Image>
+                            <h3 className="text-3xl font-testFounders text-customGray mt-5 font-medium">
+                                FRAMING TO CREATE VISUAL NARRATIVE
+                            </h3>
+                        </div>
+                        <div>
+                            <Image src="/img/dutchDesignAwards/line3poster.png"
+                                   alt="third line of investigation poster"
+                                   width={997}
+                                   height={1411}
+                            >
+                            </Image>
+                            <h3 className="text-3xl font-testFounders text-customGray mt-5 font-medium">
+                                LAYERING & OBSCURING FOR VISUAL HIERARCHY
+                            </h3>
+                        </div>
                     </div>
                 </div>
 
             </div>
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
+                <div className="col-start-3 col-span-full">
+                    <h3 className="text-3xl font-testFounders text-customGray mb-3 font-medium">
+                        LINE 1: TYPE MANIPULATION TO CREATE TEXTURE
+                    </h3>
+                    <div className="flex flex-row gap-6">
+                        <div className="flex-grow">
+                            <Image src="/img/dutchDesignAwards/line1poster.png"
+                                   alt="first line of investigation poster"
+                                   width={997}
+                                   height={1411}
+
+                            >
+                            </Image>
+
+                        </div>
+
+                        <div className="flex flex-col gap-6">
+                            <div className="shrink">
+                                <Image src="/img/dutchDesignAwards/line1Asset2.png"
+                                       alt="first line of investigation poster"
+                                       width={2209}
+                                       height={1474}
+                                       style={{width: '80%'}}
+                                >
+                                </Image>
+
+                            </div>
+                            <div className="shrink">
+                                <Image src="/img/dutchDesignAwards/line1Asset1.png"
+                                       alt="first line of investigation poster"
+                                       width={2207}
+                                       height={1570}
+                                       style={{width: '80%'}}
+                                >
+                                </Image>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
+                <div className="col-start-3 col-span-full">
+                    <h3 className="text-3xl font-testFounders text-customGray mb-3 font-medium">
+                        LINE 2: FRAMING TO CREATE VISUAL NARRATIVE
+                    </h3>
+                    <div className="flex flex-row gap-6">
+                        <div className="flex-grow">
+                            <Image src="/img/dutchDesignAwards/line2poster.png"
+                                   alt="first line of investigation poster"
+                                   width={997}
+                                   height={1411}
+
+                            >
+                            </Image>
+
+                        </div>
+
+                        <div className="flex flex-col gap-6">
+                            <div className="shrink">
+                                <Image src="/img/dutchDesignAwards/line2Asset2.png"
+                                       alt="first line of investigation poster"
+                                       width={2204}
+                                       height={1653}
+                                       style={{width: '80%'}}
+                                >
+                                </Image>
+
+                            </div>
+                            <div className="shrink">
+                                <Image src="/img/dutchDesignAwards/line2Asset1.png"
+                                       alt="first line of investigation poster"
+                                       width={2204}
+                                       height={1357}
+                                       style={{width: '80%'}}
+                                >
+                                </Image>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
+                <div className="col-start-3 col-span-7">
+                    <h3 className="text-3xl font-testFounders text-customGray mb-3 font-medium">
+                        LINE 3: LAYERING & OBSCURING FOR VISUAL HIERARCHY
+                    </h3>
+                    {/*<div className="flex flex-row gap-6">*/}
+                    {/*    /!* Row Flex Container *!/*/}
+                    {/*    <div className="flex flex-col flex-grow">*/}
+                    {/*        /!* Column Flex Container *!/*/}
+                    {/*        <div className="flex flex-row gap-6">*/}
+                    {/*            /!* Content for the first row *!/*/}
+                    {/*            <div>*/}
+                    {/*                <h3 className="text-3xl font-testFounders text-customGray mt-5 font-medium">*/}
+                    {/*                    TYPE MANIPULATION TO CREATE TEXTURE*/}
+                    {/*                </h3>*/}
+                    {/*                <Image src="/img/dutchDesignAwards/line3Asset1.png"*/}
+                    {/*                       alt="first line of investigation poster"*/}
+                    {/*                       width={997}*/}
+                    {/*                       height={1411}*/}
+                    {/*                       style={{width:'100%'}}*/}
+                    {/*                />*/}
+                    {/*            </div>*/}
+                    {/*            /!* Content for the column flexbox *!/*/}
+                    {/*            <div className="flex flex-col gap-6 mt-9">*/}
+                    {/*                /!* Content item 2 *!/*/}
+                    {/*                <div className="shrink">*/}
+                    {/*                    <Image src="/img/dutchDesignAwards/line3Asset2.png"*/}
+                    {/*                           alt="first line of investigation poster"*/}
+                    {/*                           width={2207}*/}
+                    {/*                           height={1570}*/}
+                    {/*                           style={{width:'70%'}}*/}
+
+                    {/*                    />*/}
+                    {/*                </div>*/}
+
+
+                    {/*                /!* Content item 1 *!/*/}
+                    {/*                <div className="shrink">*/}
+                    {/*                    <Image src="/img/dutchDesignAwards/line3poster.png"*/}
+                    {/*                           alt="first line of investigation poster"*/}
+                    {/*                           width={2209}*/}
+                    {/*                           height={1474}*/}
+                    {/*                           style={{width:'70%'}}*/}
+                    {/*                    />*/}
+                    {/*                </div>*/}
+
+                    {/*                /!* Additional content items *!/*/}
+                    {/*                /!* Add more <div> elements with your content here *!/*/}
+                    {/*            </div>*/}
+                    {/*        </div>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
+
+
+                    {/*Temporary Fix*/}
+
+                    <Image src="/img/dutchDesignAwards/Line3.png"
+                           alt="first line of investigation poster"
+                           width={2207}
+                           height={1570}
+
+
+                    />
+
+
+                </div>
+            </div>
+
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-44">
+                <div className="col-start-3 col-span-4 mt-10">
+                    <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">
+                        PROCESS - BREAKING DOWN THE POSTER
+                    </h3>
+
+                </div>
+
+                <div className="col-start-2 col-span-8 mt-5">
+                    <Image src="/img/dutchDesignAwards/annotations.png"
+                           alt="first line of investigation poster"
+                           width={2207}
+                           height={1570}
+
+
+                    />
+                </div>
+
+                <div className="col-start-3 col-span-4 mt-5">
+
+                    <p className="text-base font-foundersGrotesk mt-5">
+                        In this poster exploration, my intention was to strike a near balance between beauty of DDA and
+                        the unconventional nature/tradition of the Dutch mainly utilizing white space and the imagery.
+                    </p>
+
+                </div>
+
+
+            </div>
+
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">
+
+                <div className="col-start-3 col-span-4">
+                    <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">
+                        REFLECTION
+                    </h3>
+                    <p className="text-base font-foundersGrotesk mt-5">
+                        Working on this project felt like a risk for me, but one I was willing to take on. Thinking
+                        about the start of this project, I never envisioned it would end up addressing the tradition of
+                        the Dutch because the initial intention was just to make a microsite working with the existing
+                        submissions.
+                    </p>
+
+                    <p className="text-base font-foundersGrotesk mt-5">
+                        Being the person I am, I gladly accepted this challenge. I never see works like this in the
+                        class room, and “wicked -hard” projects like this are hard to take on. I am extremely glad we
+                        did. Thinking back to each presentation in the classroom, it felt like my team and I were the
+                        outsiders because of what we were trying to do, but funny enough and as tough as it was, I only
+                        grew confident in the project. I’m super grateful for a supportive professor and TA who allowed
+                        a work like this in their classroom, continuously allowing us to be challenged and challenging.
+                        For me Design should not be “safe”, it should aim to question the norm and play a role in the
+                        larger context of society, and I hope when others see this project they are encouraged to take
+                        that risk too.
+                    </p>
+
+
+                </div>
+
+            </div>
+
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
                 <div className="bg-white py-40 col-start-1 col-span-full">
 
                 </div>
             </div>
+
 
         </main>
     );
