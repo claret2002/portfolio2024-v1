@@ -31,7 +31,7 @@ const config: Config = {
 
       colors: {
         customGray: '#AEAEAE',
-        customRed: 'CE1818',
+        customRed: '#CE1818',
       },
     },
   },
