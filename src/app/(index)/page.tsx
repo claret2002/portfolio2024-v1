@@ -130,7 +130,7 @@ export default function Home() {
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10">
                 <a className="col-start-1 col-span-5"
-                   href="/triggerwarningfolder/triggerwarning">
+                   href="/projects/soulo">
                     <Image src="/img/soulo/thumbnail_soulo.png"
                            alt="a laptop"
                            width={3632}

@@ -34,6 +34,7 @@ const config: Config = {
         customGray: '#AEAEAE',
         customRed: '#CE1818',
         redHighlight: '#FF7575',
+        customOrange: '#C04000',
       },
 
       gridTemplateColumns: {
