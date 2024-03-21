@@ -215,7 +215,7 @@ export default function Home() {
                 </div>
                 <div className="col-start-3 col-span-4 mt-10">
                     <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">
-                        LANDING SCREEN
+                        DRAGGING TO UNVEIL
                     </h3>
                     <p className="text-base font-foundersGrotesk mt-5">
                         The landing page serves to give context about what DDA stands for. Inviting Designers to embrace
