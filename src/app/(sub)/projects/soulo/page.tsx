@@ -33,23 +33,23 @@ export default function Home() {
                     <ul className="flex flex-col text-customGray font-testFounders font-medium text-4xl">
                         <li><a href="/" className="">
                             <button
-                                className="">ABOUT ME
+                                className="hover:underline ease-in-out duration-300">ABOUT ME
                             </button>
                         </a></li>
                         <div className="pt-3">
                             <li><a href="/" className="">
                                 <button
-                                    className="">RESUME
+                                    className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
                             </a></li>
                             <li><a href="/" className="">
                                 <button
-                                    className="">LINKEDIN
+                                    className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
                             </a></li>
                             <li><a href="/" className="">
                                 <button
-                                    className="">EMAIL
+                                    className="hover:underline ease-in-out duration-300">EMAIL
                                 </button>
                             </a></li>
                         </div>

@@ -33,23 +33,23 @@ export default function Home() {
                     <ul className="flex flex-col text-customGray font-testFounders font-medium text-4xl">
                         <li><a href="/" className="">
                             <button
-                                className="">ABOUT ME
+                                className="hover:underline ease-in-out duration-300">ABOUT ME
                             </button>
                         </a></li>
                         <div className="pt-3">
                             <li><a href="/" className="">
                                 <button
-                                    className="">RESUME
+                                    className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
                             </a></li>
                             <li><a href="/" className="">
                                 <button
-                                    className="">LINKEDIN
+                                    className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
                             </a></li>
                             <li><a href="/" className="">
                                 <button
-                                    className="">EMAIL
+                                    className="hover:underline ease-in-out duration-300">EMAIL
                                 </button>
                             </a></li>
                         </div>
@@ -146,14 +146,15 @@ export default function Home() {
                 </div>
                 <div className="col-start-1 col-span-2 mt-1">
                     <h2 className="font-testFounders font-medium text-3xl text-customGray">
-                        ART DIRECTION, INTERACTION DESIGN, RESEARCH
+                        UI DESIGN, UX RESEARCH, EXPERIENCE DESIGN
                     </h2>
                 </div>
 
                 <div className="col-start-4 col-span-2 mt-1 ">
 
                     <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
-                        SURFACING THE VERY EXPLICIT NATURE OF THE DUTCH CULTURE.
+                        CONNECTING SOLO TRAVELERS TO NEARBY ACTIVITIES AND FELLOW ADVENTURERS FOR SHARED EXPERIENCES.
+
                     </h2>
 
                 </div>
@@ -175,14 +176,14 @@ export default function Home() {
                 </div>
                 <div className="col-start-6 col-span-2 mt-1 row-start-3">
                     <h2 className="font-testFounders font-medium text-3xl text-customGray">
-                        EXPERIENCE DESIGN, INTERACTION DESIGN, CONTENT STRATEGY, RESEARCH
+                        ACADEMIC WORK
                     </h2>
                 </div>
 
                 <div className="col-start-9 col-span-2 mt-1 row-start-3">
 
                     <h2 className="ml-2 font-testFounders font-medium text-3xl text-customGray ">
-                        A REVAMP OF 88RISING WEBSITE WITH A FOCUS ON ENHANCED ARTISTS DISCOVERABILITY.
+                        SOME EXPERIMENT POSTERS I MADE FOR CLASSES THAT I LOVED
                     </h2>
 
                 </div>
