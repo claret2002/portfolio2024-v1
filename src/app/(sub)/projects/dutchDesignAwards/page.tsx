@@ -208,9 +208,9 @@ export default function Home() {
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-44">
                 <div className="col-start-3 col-span-7 video-container"
                 >
-                    <video loop className="w-full" preload="auto" controls>
+                    <video autoPlay loop muted className="w-full" preload="auto" playsInline>
                         {/*<source src="/video/88rising/demo.webm" type="video/webm"></source>*/}
-                        <source src="/video/dutchDesignAwards/headerVideo.mov" type="video/mp4"></source>
+                        <source src="/video/dutchDesignAwards/dutchDesignAwardVideo1.mov" type="video/mp4"></source>
                     </video>
                 </div>
                 <div className="col-start-3 col-span-4 mt-10">
@@ -230,9 +230,9 @@ export default function Home() {
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-44">
                 <div className="col-start-3 col-span-7 video-container"
                 >
-                    <video loop className="w-full" preload="auto" controls>
+                    <video autoPlay loop muted className="w-full" preload="auto" playsInline>
                         {/*<source src="/video/88rising/demo.webm" type="video/webm"></source>*/}
-                        <source src="/video/dutchDesignAwards/headerVideo.mov" type="video/mp4"></source>
+                        <source src="/video/dutchDesignAwards/dutchDesignAwardVideo2.mov" type="video/mp4"></source>
                     </video>
                 </div>
                 <div className="col-start-3 col-span-4 mt-10">
@@ -251,13 +251,34 @@ export default function Home() {
             </div>
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-44">
-                <div className="col-start-3 col-span-7 video-container"
-                >
-                    <video loop className="w-full" preload="auto" controls>
-                        {/*<source src="/video/88rising/demo.webm" type="video/webm"></source>*/}
-                        <source src="/video/dutchDesignAwards/headerVideo.mov" type="video/mp4"></source>
-                    </video>
+
+                <div className="col-start-3 col-span-7">
+                    <div className="flex flex-row gap-3">
+                        <div>
+                            <Image src="/img/dutchDesignAwards/dutchDesignAward_evokingbrutality2.png"
+                                   alt="third line of investigation poster"
+                                   width={997}
+                                   height={1411}
+
+                            >
+                            </Image>
+                        </div>
+
+                        <div>
+                            <Image src="/img/dutchDesignAwards/dutchDesignAward_evokingbrutality1.png"
+                                   alt="third line of investigation poster"
+                                   width={997}
+                                   height={1411}
+
+
+                            >
+                            </Image>
+                        </div>
+
+
+                    </div>
                 </div>
+
                 <div className="col-start-3 col-span-4 mt-10">
                     <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">
                         EVOKING BRUTALITY THROUGH TYPE
