@@ -70,7 +70,7 @@ export default function Home() {
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10">
                 <a className="col-start-1 col-span-5"
                    href="/triggerwarningfolder/triggerwarning">
-                    <Image src="/img/dutchDesignAwards/thumbnail.png"
+                    <Image src="/img/dutchDesignAwards/thumbnail_dutchDesignAward.png"
                            alt="a laptop"
                            width={3632}
                            height={2667}
@@ -98,8 +98,8 @@ export default function Home() {
                 </div>
 
                 <a className="col-start-6 col-span-5 row-start-1"
-                   href="/projects/warning">
-                    <Image src="/img/dutchDesignAwards/thumbnail.png"
+                   href="/projects/88rising">
+                    <Image src="/img/dutchDesignAwards/thumbnail_dutchDesignAward.png"
                            alt="a laptop"
                            width={3632}
                            height={2667}
@@ -131,7 +131,7 @@ export default function Home() {
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mb-10">
                 <a className="col-start-1 col-span-5"
                    href="/triggerwarningfolder/triggerwarning">
-                    <Image src="/img/dutchDesignAwards/thumbnail.png"
+                    <Image src="/img/soulo/thumbnail_soulo.png"
                            alt="a laptop"
                            width={3632}
                            height={2667}
@@ -159,8 +159,8 @@ export default function Home() {
                 </div>
 
                 <a className="col-start-6 col-span-5 row-start-1"
-                   href="/triggerwarningfolder/triggerwarning">
-                    <Image src="/img/dutchDesignAwards/thumbnail.png"
+                   href="/projects/88rising">
+                    <Image src="/img/posters/thumbnail_posters.png"
                            alt="a laptop"
                            width={3632}
                            height={2667}
