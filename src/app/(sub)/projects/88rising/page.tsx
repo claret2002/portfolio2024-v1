@@ -592,6 +592,18 @@ export default function Home() {
                 </div>
             </div>
 
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
+
+                <div className="col-start-4 col-span-6 ml-20">
+                    <Image src="/img/88rising/artistlink.png"
+                           alt=""
+                           width={4792}
+                           height={2327}
+                    >
+                    </Image>
+                </div>
+
+            </div>
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">
 
