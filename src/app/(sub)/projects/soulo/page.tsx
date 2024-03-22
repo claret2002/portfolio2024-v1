@@ -31,7 +31,7 @@ export default function Home() {
 
                 <div className="col-start-8 col-span-2">
                     <ul className="flex flex-col text-customGray font-testFounders font-medium text-4xl">
-                        <li><a href="/" className="">
+                        <li><a href="/about" className="">
                             <button
                                 className="hover:underline ease-in-out duration-300">ABOUT ME
                             </button>
@@ -74,11 +74,8 @@ export default function Home() {
                 </div>
                 <div className="col-start-3 col-span-4">
                     <p className="text-base font-foundersGrotesk ">
-                        Over a 5-week project, our team delved into the works of designers like Muriel Cooper and Chris
-                        Ashworth, drawing inspiration for graphical experiments that solidified our design principles.
-                        These explorations culminated in the creation of dynamic posters, assets, and ultimately a
-                        microsites for our simulated client, <span
-                        className="font-bold"> the Dutch Design Awards. </span>
+                        A 5 week project that delved into interface design where we were given the task to develop an
+                        application of our choice, rooted in thorough research and addressing a need.
                     </p>
                 </div>
             </div>

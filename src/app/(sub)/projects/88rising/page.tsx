@@ -31,7 +31,7 @@ export default function Home() {
 
                 <div className="col-start-8 col-span-2">
                     <ul className="flex flex-col text-customGray font-testFounders font-medium text-4xl">
-                        <li><a href="/" className="">
+                        <li><a href="/about" className="">
                             <button
                                 className="hover:underline ease-in-out duration-300">ABOUT ME
                             </button>

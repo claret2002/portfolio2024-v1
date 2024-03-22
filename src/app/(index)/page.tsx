@@ -31,7 +31,7 @@ export default function Home() {
 
                 <div className="col-start-8 col-span-2">
                     <ul className="flex flex-col text-customGray font-testFounders font-medium text-4xl">
-                        <li><a href="/" className="">
+                        <li><a href="/about" className="">
                             <button
                                 className="hover:underline ease-in-out duration-300">ABOUT ME
                             </button>
@@ -99,7 +99,7 @@ export default function Home() {
 
                 <a className="col-start-6 col-span-5 row-start-1"
                    href="/projects/88rising">
-                    <Image src="/img/dutchDesignAwards/thumbnail_dutchDesignAward.png"
+                    <Image src="/img/88rising/thumbnail.png"
                            alt="a laptop"
                            width={3632}
                            height={2667}
