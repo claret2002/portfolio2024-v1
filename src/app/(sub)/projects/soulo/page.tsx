@@ -37,7 +37,8 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view" className="">
+                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view"
+                                   className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
@@ -47,7 +48,7 @@ export default function Home() {
                                     className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
                             </a></li>
-                            <li><a href="/" className="">
+                            <li><a href="mailto:Egwimclaret2002@gmail.com" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">EMAIL
                                 </button>
@@ -441,24 +442,24 @@ export default function Home() {
 
             </div>
 
-            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">
+            {/*<div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">*/}
 
-                <div className="col-start-3 col-span-4">
-                    <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">
-                        REFLECTION
-                    </h3>
-                    <p className="text-base font-foundersGrotesk mt-5">
-                        asdasd
-                    </p>
+            {/*    <div className="col-start-3 col-span-4">*/}
+            {/*        <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">*/}
+            {/*            REFLECTION*/}
+            {/*        </h3>*/}
+            {/*        <p className="text-base font-foundersGrotesk mt-5">*/}
+            {/*            asdasd*/}
+            {/*        </p>*/}
 
-                    <p className="text-base font-foundersGrotesk mt-5">
-                        asdasd
-                    </p>
+            {/*        <p className="text-base font-foundersGrotesk mt-5">*/}
+            {/*            asdasd*/}
+            {/*        </p>*/}
 
 
-                </div>
+            {/*    </div>*/}
 
-            </div>
+            {/*</div>*/}
 
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
                 <div className="bg-white py-40 col-start-1 col-span-full">

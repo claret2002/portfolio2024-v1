@@ -47,7 +47,7 @@ export default function Home() {
                                     className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
                             </a></li>
-                            <li><a href="/" className="">
+                            <li><a href="mailto:Egwimclaret2002@gmail.com" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">EMAIL
                                 </button>

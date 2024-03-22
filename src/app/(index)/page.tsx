@@ -47,7 +47,7 @@ export default function Home() {
                                     className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
                             </a></li>
-                            <li><a href="/" className="">
+                            <li><a href="mailto:Egwimclaret2002@gmail.com" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">EMAIL
                                 </button>
@@ -160,7 +160,7 @@ export default function Home() {
                 </div>
 
                 <a className="col-start-6 col-span-5 row-start-1"
-                   href="/projects/88rising">
+                   href="/projects/posters">
                     <Image src="/img/posters/thumbnail_posters.png"
                            alt="a laptop"
                            width={3632}
@@ -353,6 +353,12 @@ export default function Home() {
 
 
                     </div>
+                </div>
+            </div>
+
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
+                <div className="bg-white py-40 col-start-1 col-span-full">
+
                 </div>
             </div>
         </main>

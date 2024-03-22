@@ -25,6 +25,7 @@ export default function Home() {
 
                 <div className="col-start-3 col-span-3">
                     <p className="text-customGray font-testFounders font-medium text-4xl">
+                        PROJECT: POSTERS
                     </p>
                 </div>
 
@@ -36,7 +37,8 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view" className="">
+                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view"
+                                   className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
@@ -59,53 +61,16 @@ export default function Home() {
             </nav>
             {/*</div>*/}
 
+            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
+                <div className="bg-white py-52 col-start-1 col-span-full">
 
-            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
-
-                <div className="col-start-3 col-span-3 ">
-                    <Image src="/img/about/claretaboutpfp.png"
-                           alt=""
-                           width={4792}
-                           height={2327}
-                    >
-                    </Image>
                 </div>
-
             </div>
 
-            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-10">
-
-                <div className="col-start-3 col-span-4">
-                    <h3 className="text-base font-foundersGrotesk font-medium">
-                        Hi There!
-                    </h3>
-                    <p className="text-base font-foundersGrotesk mt-5">
-                        I am currently a fourth year student at the school of Interactive Arts and Technology. Through
-                        out my journey, I have developed a love for all things design, but of recent I’ve particularly
-                        grown an interest in exploring the different ways stories can be told within this field,
-                        especially graphically, and how I can continuously us design to challenge and to make a
-                        statement in our world today (provocatively, or not). For me, if design is not challenging a
-                        system...then what is it doing?
-
-                    </p>
-
-                    <p className="text-base font-foundersGrotesk mt-5">
-                        Outside of my design life, you can always see me outside in the Summer exploring the city of
-                        Vancouver which isn’t bad looking to be honest! I’m also African, particularly Nigerian (Giants
-                        of Africa) so I also enjoy exploring different ways to celebrate my culture and introduce people
-                        through it in anyway I can (music, music hair, clothing). Speaking of music, you can check out
-                        some of the recent African beats I am currently in love with <span
-                        className="underline hover:text-customGray ease-in-out duration-300"> <a
-                        href="https://open.spotify.com/playlist/47TMnG4C6TgK6udS6AlKF1?si=515dae53dd9a4d26">here</a>. </span>
-                    </p>
-
-                    <p className="text-base font-foundersGrotesk mt-5">
-                        Looking forward to connecting with you!
-
-                    </p>
-
+            <div className="flex flex-row justify-center">
+                <div>
+                    <h2 className="font-foundersGrotesk text-5xl ">COMING SOON</h2>
                 </div>
-
             </div>
 
 
@@ -117,6 +82,5 @@ export default function Home() {
 
 
         </main>
-    )
-        ;
+    );
 }
