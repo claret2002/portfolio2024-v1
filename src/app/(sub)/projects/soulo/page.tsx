@@ -37,12 +37,12 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="/" className="">
+                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
                             </a></li>
-                            <li><a href="/" className="">
+                            <li><a href="https://www.linkedin.com/in/claret-egwim-nwagbara-2412881b8/" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">LINKEDIN
                                 </button>
