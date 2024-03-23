@@ -36,7 +36,8 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view" className="">
+                            <li><a href="https://drive.google.com/file/d/19NE7qO0XsqYjk0lw8R-J6mMSJQe7Eio_/view"
+                                   className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
@@ -91,10 +92,10 @@ export default function Home() {
 
                     <p className="text-base font-foundersGrotesk mt-5">
                         Outside of my design life, you can always see me outside in the Summer exploring the city of
-                        Vancouver which isn’t bad looking to be honest! I’m also African, particularly Nigerian (Giants
-                        of Africa) so I also enjoy exploring different ways to celebrate my culture and introduce people
-                        through it in anyway I can (music, music hair, clothing). Speaking of music, you can check out
-                        some of the recent African beats I am currently in love with <span
+                        Vancouver which isn’t bad looking to be honest! I’m also African, particularly Nigerian or as I
+                        like to call us “Giants of Africa”. I also enjoy exploring different ways to celebrate my
+                        culture and introduce people through it in anyway I can (music, hair, clothing etc). Speaking of
+                        music, you can check out some of the recent African beats I am currently in love with <span
                         className="underline hover:text-customGray ease-in-out duration-300"> <a
                         href="https://open.spotify.com/playlist/47TMnG4C6TgK6udS6AlKF1?si=515dae53dd9a4d26">here</a>. </span>
                     </p>

@@ -342,7 +342,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-64 ml-16">
+                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Onboarding
@@ -368,7 +368,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-64 ml-16">
+                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Group activity finder
@@ -395,7 +395,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-64 ml-16">
+                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Joining an Event
@@ -423,7 +423,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-56 ml-16">
+                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Making a new connection
