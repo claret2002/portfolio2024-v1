@@ -85,6 +85,17 @@ const config: Config = {
         'home-top': '17rem', // Your custom margin value
         'thumbnail-top' :'0.62rem',
       },
+
+      screens: {
+        'sm': '1300px',
+        // => @media (min-width: 640px) { ... }
+
+        'md': '1400px',
+        // => @media (min-width: 1024px) { ... }
+
+        'lg': '1750px',
+        // => @media (min-width: 1280px) { ... }
+      },
     },
   },
   plugins: [],

@@ -342,10 +342,10 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
+                <div className="col-start-6 col-span-4 ml-16 mt-72 md:mt-96 lg:mt-96 lg:pt-40">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
-                        Onboarding
+                        Onboarding <span className="lg:hidden md:visible ">MD</span>
                     </h3>
 
                     <p className="text-base font-foundersGrotesk mt-5">
@@ -368,7 +368,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
+                <div className="col-start-6 col-span-4 ml-16 mt-60 md:mt-96 lg:mt-96 lg:pt-40 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Group activity finder
@@ -395,7 +395,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
+                <div className="col-start-6 col-span-4 ml-16 mt-60 md:mt-96 lg:mt-96 lg:pt-40 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Joining an Event
@@ -413,7 +413,6 @@ export default function Home() {
 
             </div>
 
-
             <div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-36">
 
                 <div className="col-start-3 col-span-3 video-container mt-10">
@@ -423,7 +422,7 @@ export default function Home() {
                 </div>
 
 
-                <div className="col-start-6 col-span-4 pt-60 mt-80 ml-16">
+                <div className="col-start-6 col-span-4 ml-16 mt-60 md:mt-96 lg:mt-96 lg:pt-40 ml-16">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
                         Making a new connection
@@ -432,9 +431,13 @@ export default function Home() {
                     <p className="text-base font-foundersGrotesk mt-5">
                         For the &lsquo;Connection&rsquo; tab, it&apos;s designed to enhance solo
                         travellers&apos; intimate adventures rather
-                        than focusing on large-scale experiences. Users can connect based on languages and interests,
-                        with communication limited to notes until requests are accepted. This approach aims to prevent
-                        spam and maintain a focus on meaningful connections during trips, rather than functioning as a
+                        than focusing on large-scale experiences. Users can connect based on languages and
+                        interests,
+                        with communication limited to notes until requests are accepted. This approach aims to
+                        prevent
+                        spam and maintain a focus on meaningful connections during trips, rather than
+                        functioning as
+                        a
                         typical social media platform.
                     </p>
 
@@ -442,32 +445,50 @@ export default function Home() {
 
             </div>
 
-            {/*<div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">*/}
-
-            {/*    <div className="col-start-3 col-span-4">*/}
-            {/*        <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">*/}
-            {/*            REFLECTION*/}
-            {/*        </h3>*/}
-            {/*        <p className="text-base font-foundersGrotesk mt-5">*/}
-            {/*            asdasd*/}
-            {/*        </p>*/}
-
-            {/*        <p className="text-base font-foundersGrotesk mt-5">*/}
-            {/*            asdasd*/}
-            {/*        </p>*/}
 
 
-            {/*    </div>*/}
-
-            {/*</div>*/}
-
-            <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
-                <div className="bg-white py-40 col-start-1 col-span-full">
-
-                </div>
-            </div>
 
 
-        </main>
-    );
+    {/*<div className="mx-custom-margin grid grid-cols-10 gap-x-5 mt-96">*/
+    }
+
+    {/*    <div className="col-start-3 col-span-4">*/
+    }
+    {/*        <h3 className="text-caseStudyHeader font-foundersGrotesk font-medium">*/
+    }
+    {/*            REFLECTION*/
+    }
+    {/*        </h3>*/
+    }
+    {/*        <p className="text-base font-foundersGrotesk mt-5">*/
+    }
+    {/*            asdasd*/
+    }
+    {/*        </p>*/
+    }
+
+    {/*        <p className="text-base font-foundersGrotesk mt-5">*/
+    }
+    {/*            asdasd*/
+    }
+    {/*        </p>*/
+    }
+
+
+    {/*    </div>*/
+    }
+
+    {/*</div>*/
+    }
+
+    <div className="mx-custom-margin grid grid-cols-10 gap-x-5 ">
+        <div className="bg-white py-40 col-start-1 col-span-full">
+
+        </div>
+    </div>
+
+
+</main>
+)
+    ;
 }
