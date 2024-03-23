@@ -345,7 +345,7 @@ export default function Home() {
                 <div className="col-start-6 col-span-4 ml-16 mt-72 md:mt-96 lg:mt-96 lg:pt-40">
 
                     <h3 className="text-xl font-foundersGrotesk font-medium text-customOrange">
-                        Onboarding <span className="lg:hidden md:visible ">MD</span>
+                        Onboarding 
                     </h3>
 
                     <p className="text-base font-foundersGrotesk mt-5">
