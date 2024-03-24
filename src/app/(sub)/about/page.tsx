@@ -84,7 +84,7 @@ export default function Home() {
                         I am currently a fourth year student at the school of Interactive Arts and Technology. Through
                         out my journey, I have developed a love for all things design, but of recent I’ve particularly
                         grown an interest in exploring the different ways stories can be told within this field,
-                        especially graphically, and how I can continuously us design to challenge and to make a
+                        especially graphically, and how I can continuously use design to challenge and to make a
                         statement in our world today (provocatively, or not). For me, if design is not challenging a
                         system...then what is it doing?
 
