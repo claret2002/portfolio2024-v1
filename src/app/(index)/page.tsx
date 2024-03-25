@@ -305,13 +305,13 @@ export default function Home() {
                 <div className="col-start-5 col-span-2 ml-16 row-start-1">
                     <div className="flex flex-col mt-16 gap-1">
                         <h4 className="font-testFounders font-medium text-3xl text-customGray">
-                            GRAPHIC DESIGN
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
-                            USER RESEARCH
-                        </h4>
-                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             STORYTELLING
+                        </h4>
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
+                            VISUAL DESIGN
+                        </h4>
+                        <h4 className="font-testFounders font-medium text-3xl text-customGray">
+                            EXPERIENCE DESIGN
                         </h4>
                     </div>
 
@@ -322,7 +322,7 @@ export default function Home() {
                         <h4 className="font-testFounders font-medium text-3xl text-customGray">
                             CONTENT STRATEGY </h4>
                         <h4 className="font-testFounders font-medium text-3xl text-customGray">
-                            EXPERIENCE DESIGN </h4>
+                            USER RESEARCH </h4>
 
                     </div>
 
