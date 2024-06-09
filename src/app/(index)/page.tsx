@@ -24,8 +24,9 @@ export default function Home() {
 
                 <div className="col-start-3 col-span-3">
                     <p className="text-customGray font-testFounders font-medium text-4xl">
-                        A DESIGNER WHO PURPOSEFULLY INTEGRATES REASON, STRATEGY, EMPATHY AND PROCESS TO CRAFT PRODUCTS
-                        THAT NOT ONLY MEETS THE NEEDS OF PEOPLE BUT ALSO PLAYS A LARGER ROLE IN REAL CONTEXT.
+                        FUELED BY THE PASSION FOR STORYTELLING, I'M DRIVEN TO DISCOVER AND NARRATE THE DIVERSE STORIES 
+                        WAIING TO BE TOLD THROUGH DESIGN. I AIM TO UNIQUELY POSITION COMPANIES BY CRAFTING ENGAGING 
+                        EXPERIENCES THAT RESONATES WITH THEIR AUDIENCE LEAVING A LASTING IMPACT.  
                     </p>
                 </div>
 
