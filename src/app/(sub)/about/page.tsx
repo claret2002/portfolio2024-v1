@@ -83,18 +83,17 @@ export default function Home() {
                     <p className="text-base font-foundersGrotesk mt-5">
                         I am currently a fourth year student at the school of Interactive Arts and Technology. Through
                         out my journey, I have developed a love for all things design, but of recent I’ve particularly
-                        grown an interest in exploring the different ways stories can be told within this field,
-                        especially graphically, and how I can continuously use design to challenge and to make a
-                        statement in our world today (provocatively, or not). For me, if design is not challenging a
-                        system...then what is it doing?
+                        grown an interest in exploring the different ways stories can be told within this field and
+                        how I can continuously use design to challenge and make a statement in our world today 
+                        
 
                     </p>
 
                     <p className="text-base font-foundersGrotesk mt-5">
-                        Outside of my design life, you can always see me outside in the Summer exploring the city of
-                        Vancouver which isn’t bad looking to be honest! I’m also African, particularly Nigerian or as I
-                        like to call us “Giants of Africa”. I also enjoy exploring different ways to celebrate my
-                        culture and introduce people through it in anyway I can (music, hair, clothing etc). Speaking of
+                        Outside of my design life, you can always see me out in the Summer exploring the city of
+                        Vancouver which isn’t bad looking to be honest! I’m Nigerian or as I like to call us -
+                         “The Giants of Africa”. I enjoy exploring different ways to celebrate my
+                        culture and introduce people to it in anyway I can (music, hair, clothing etc). Speaking of
                         music, you can check out some of the recent African beats I am currently in love with <span
                         className="underline hover:text-customGray ease-in-out duration-300"> <a
                         href="https://open.spotify.com/playlist/47TMnG4C6TgK6udS6AlKF1?si=515dae53dd9a4d26">here</a>. </span>
