@@ -218,9 +218,10 @@ export default function Home() {
 
                 <div className="col-start-5 col-span-4 row-start-2 ml-16">
                     <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
-                        COORDINATED A DESIGN CONFERENCE HOSTING 200+ GUESTS AND 8 SPEAKERS, OVERSEEING STUDENT
-                        INTERVIEWS WITH 9 COMPANIES WHICH RESULTED IN X PEOPLE GETTING AN INTERNSHIP. COLLABORATED WITH
-                        A TEAM OF 3 TO DEVELOP THE VISUAL IDENTITY FOR THE CONFERENCE WEBSITE.
+                        MANAGED A DESIGN CONFERENCE FOR TWO YEARS, HOSTING 500+ ATTENDEES AND 17 SPEAKERS. OVERSAW
+                        EVENT LOGISTICS, SCHEDULING, AND VENUE MANAGEMENT. CURATED STUDENT SHORTLIST FOR INTERVIEWS 
+                        WITH 9 COMPANIES FACILITATING INTERNSHIPS. COLLABORATED WITH A TEAM OF 3 TO SHAPE THE 
+                        CONFERENCE&apos;S VISUAL IDENTITY EACH YEAR THROUGH CONSTRUCTIVE FEEDBACK.
 
                     </h4>
                 </div>
@@ -239,9 +240,9 @@ export default function Home() {
 
                 <div className="col-start-5 col-span-4 row-start-3 ml-16">
                     <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
-                        CONTRIBUTED TO A WEBSITE REDESIGN PROJECT FOR 88RISING AIMED AT ENHANCING THE DISCOVERABILITY OF
-                        LESSER KNOWN ARTISTS, ALIGNING WITH THE COMPANY&apos;S MISSION OF BRIDGING EASTERN AND WESTERN
-                        CULTURES.
+                        CONTRIBUTED TO CONTENT STRATEGY AND VISUAL DESIGN FOR THE 88RISING WEBSITE REDESIGN, 
+                        REFINING FONT PAIRINGS AND LAYOUTS TO ENHANCE ARTIST DISCOVERABILTY. CONDUCTED INTERVIEWS TO
+                        INFORM CONTENT DECISIONS, IMPROVING USER ENGAGEMENT AND SHOWCASING EMERGING TALENT.
 
                     </h4>
                 </div>
@@ -260,9 +261,10 @@ export default function Home() {
 
                 <div className="col-start-5 col-span-4 row-start-4 ml-16">
                     <h4 className="font-testFounders font-medium text-3xl mt-16 text-customGray">
-                        LED CREATION OF A BOLD VISUAL IDENTITY FOR A FICTIONAL DUTCH DESIGN AWARD SUBMISSION. ADDRESSED
-                        CONTROVERSIAL CULTURAL TOPICS LIKE SWARTZ PETE. DEMONSTRATED ABILITY TO USE DESIGN TO PROVOKE
-                        CRITICAL DISCOURSE.
+                        DEVELOPED A MICROSITE FOR A FICTIONAL DUTCH DESIGN AWARD PRE-EVENT, FRAMED TO INVITE DESIGNER 
+                        SUBMISSIONS AND CHALLENGE THE STATUS QUO. ADDRESSING CONTROVERSIAL TOPICS SUCH AS ZWARTE PETE
+                         - A RACIST CHARACTER - DEMONSTRATING THE ABILITY TO PROVOKE CRITICAL DISCOURSE THROUGH DESIGN.
+                        
 
                     </h4>
                 </div>
