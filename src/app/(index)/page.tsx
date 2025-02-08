@@ -38,7 +38,7 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="https://drive.google.com/file/d/1BJkzvA9EfP1GXl_hc3Y4DOyjJR9sAMz2/view?usp=sharing" className="">
+                            <li><a href="https://drive.google.com/file/d/1_Oa_VCy8Ej7VYDZNtfyr5NcQO4OyXDkg/view?usp=sharing" className="">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>
