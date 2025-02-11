@@ -38,7 +38,7 @@ export default function Home() {
                             </button>
                         </a></li>
                         <div className="pt-3">
-                            <li><a href="https://drive.google.com/file/d/1_Oa_VCy8Ej7VYDZNtfyr5NcQO4OyXDkg/view?usp=sharing" className="">
+                            <li><a href="/resume/resume.pdf" className="" target="_blank">
                                 <button
                                     className="hover:underline ease-in-out duration-300">RESUME
                                 </button>

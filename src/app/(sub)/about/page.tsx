@@ -81,7 +81,7 @@ export default function Home() {
                         Hi There!
                     </h3>
                     <p className="text-base font-foundersGrotesk mt-5">
-                        I'm sure you already know, but name is Claret and I sometimes also go by my native name, Amara.
+                        I&apos;m sure you already know, but name is Claret and I sometimes also go by my native name, Amara.
                         I recently just completed my studies at Simon Fraser University which is exciting...I think. 
                         Through out my journey there, I developed a love for all things design, but of recent I’ve
                         particularly grown an interest in exploring the different ways stories can be told within this
@@ -92,8 +92,8 @@ export default function Home() {
                     </p>
 
                     <p className="text-base font-foundersGrotesk mt-5">
-                        Outside of my design life, you can always see me out in the Summer exploring whatever city I'm in.
-                        Right now I'm in Toronto and loving every bit of it. I’m Nigerian or as I like to call us -
+                        Outside of my design life, you can always see me out in the Summer exploring whatever city I&apos;m in.
+                        Right now I&apos;m in Toronto and loving every bit of it. I’m Nigerian or as I like to call us -
                          “The Giants of Africa” and I enjoy exploring different ways to celebrate my
                         culture and introduce people to it in anyway I can (music, hair, clothing etc). Speaking of
                         music, you can check out some of the recent African beats I am currently in love with. <span
